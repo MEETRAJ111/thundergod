@@ -1,0 +1,5 @@
+{
+	"ip":"MEETRAJ_111.aternos.me",
+	"port": "53960",
+	"name": "THOR"
+}
